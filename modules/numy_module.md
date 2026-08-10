@@ -59,23 +59,23 @@ Answer the following questions.
 
 ### Which function was the easiest to understand?
 
----
+np.mean() was easiest to understand
 
 ### Which function was the most difficult?
 
----
+np.random.rand() took effort to understand.
 
 ### Which function do you think you will use the most?
 
----
+np.mean, np.reshape, np.where, np.array
 
 ### What did you learn about required and optional parameters?
 
----
+the required paramaeters have to be present [otherwise a type-error occurs], while optional fall back tot the defaults
 
 ### What did you learn about reading Python documentation?
 
----
+it's actually straightforward.
 
 # References
 
@@ -83,4 +83,4 @@ Include links to the official Python documentation and any other reputable sourc
 
 Example:
 
-- https://docs.python.org/3/library/random.html
+- https://numpy.org/doc/stable/reference/routines.array-creation.html
