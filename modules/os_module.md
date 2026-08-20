@@ -83,4 +83,4 @@ Include links to the official Python documentation and any other reputable sourc
 
 Example:
 
-- https://docs.python.org/3/library/datetime.html#datetime.datetime.strptime
+- https://docs.python.org/3/library/os.html#os.getcwd
